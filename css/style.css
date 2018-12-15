@@ -4,7 +4,7 @@
 /*
 	Copyright (C) 2011-2015 Hoefler & Co.
 	This software is the property of Hoefler & Co. (H&Co).
-	Your right to access and use this software is subject to the
+	Your right to access and use this software is subject to the 
 	applicable License Agreement, or Terms of Service, that exists
 	between you and H&Co. If no such agreement exists, you may not
 	access or use this software for any purpose.
@@ -319,7 +319,7 @@ img {
 .github-corner {
     width: 5.2rem;
     height: 5.2rem;
-    fill: #9b4dcA !important;
+    fill: #159957 !important;
     color: #f4f5f6;
     position: absolute;
     top: 0;
@@ -437,11 +437,11 @@ img {
 
 .popover-link:hover {
     color: #ffffff;
-    background: #9b4dca;
+    background: #159957;
 }
 
 .popover-link:hover, .popover-item:first-child .popover-link:hover:after {
-    border-bottom-color: #9b4dca;
+    border-bottom-color: #159957;
 }
 
 /* Share */
@@ -460,7 +460,7 @@ img {
 }
 
 .share-icon {
-    background-color: #9b4dca;
+    background-color: #159957;
     border-radius: .4rem;
     color: #ffffff;
     display: block;
@@ -486,7 +486,7 @@ img {
 
 /*pre.prettyprint {
     border: 0 !important;
-    border-right: .3rem solid #9b4dca !important;
+    border-right: .3rem solid #159957 !important;
     color: #655d5d;
 }*/
 
@@ -512,7 +512,7 @@ pre.prettyprint .typ {
 
 /* a literal value */
 pre.prettyprint .lit {
-    color: #9b4dca;
+    color: #159957;
 }
 
 /* punctuation */
@@ -532,12 +532,12 @@ pre.prettyprint .clo {
 
 /* a markup tag name */
 pre.prettyprint .tag {
-    color: #9b4dca;
+    color: #159957;
 }
 
 /* a markup attribute name */
 pre.prettyprint .atn {
-    color: #9b4dca;
+    color: #159957;
 }
 
 /* a markup attribute value */
